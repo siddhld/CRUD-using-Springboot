@@ -16,7 +16,6 @@ import com.sidd.proj.PersonAddress.CustomErrorHandling.DataMatchedException;
 import com.sidd.proj.PersonAddress.CustomErrorHandling.DataNotFoundException;
 import com.sidd.proj.PersonAddress.CustomErrorHandling.NoRecordsAvaliable;
 import com.sidd.proj.PersonAddress.Entity.Person;
-import com.sidd.proj.PersonAddress.Service.PersonService;
 
 @RestController
 @RequestMapping("/api")
